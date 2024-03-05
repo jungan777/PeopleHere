@@ -128,7 +128,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB3WLa8PNBaMOK2OQm1U64Hb6RetEu-E1g" />
+            android:value=" />
 
         <activity
             android:name=".IntroduceCaution.CautionActivity"
